@@ -37,10 +37,10 @@ Short-term rentals (≤ 30 days) are simpler legally; long-term rentals (> 30 da
 
 Reviews in the last 12 months are used as a proxy for demand
 
-📂 How to Use
+📂 Google Drive Link
+https://drive.google.com/drive/folders/1CA6ymhmu7Q7aCKjdV6TpTATM2eKUVmh2?usp=sharing
 
 Download the repository
-
 Open the Excel file to explore the dataset
 
 Review the PowerPoint presentation for insights and recommendations
